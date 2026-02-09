@@ -1,0 +1,35 @@
+[window]
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Light"
+
+[font]
+size = 12.0
+
+
+[colors.primary]
+background = '#2c2c2c'
+foreground = '#ffffff'
+
+[colors.normal]
+black   = '#000000'
+red     = '#e53935'
+green   = '#4caf50'
+yellow  = '#fbc02d'
+blue    = '#3c84f7'
+magenta = '#ab47bc'
+cyan    = '#009688'
+white   = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black   = '#000000'
+red     = '#f44336'
+green   = '#66bb6a'
+yellow  = '#ffd600'
+blue    = '#5b9bf8'
+magenta = '#ba68c8'
+cyan    = '#4db6ac'
+white   = '#ffffff'
